@@ -1,0 +1,1 @@
+# pasta sensores do raspberypi

@@ -1,0 +1,1944 @@
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  180.13 cm
+180.13
+5aafd0737f7bff0919ec77d8
+{'_id': ObjectId('5aafd0737f7bff0919ec77d8'),
+ 'data_hora': datetime.datetime(2018, 3, 19, 12, 0, 3, 727000),
+ 'distancia': 180.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  32.96 cm
+32.96
+5aafec947f7bff0aa7f887f7
+{'_id': ObjectId('5aafec947f7bff0aa7f887f7'),
+ 'data_hora': datetime.datetime(2018, 3, 19, 14, 0, 4, 290000),
+ 'distancia': 32.96}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  33.03 cm
+33.03
+5ab008b47f7bff0bcd3a2d1e
+{'_id': ObjectId('5ab008b47f7bff0bcd3a2d1e'),
+ 'data_hora': datetime.datetime(2018, 3, 19, 16, 0, 4, 2000),
+ 'distancia': 33.03}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  32.97 cm
+32.97
+5ab024d47f7bff0cf3d86426
+{'_id': ObjectId('5ab024d47f7bff0cf3d86426'),
+ 'data_hora': datetime.datetime(2018, 3, 19, 18, 0, 4, 212000),
+ 'distancia': 32.97}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  33.05 cm
+33.05
+5ab040f37f7bff0e196f4f46
+{'_id': ObjectId('5ab040f37f7bff0e196f4f46'),
+ 'data_hora': datetime.datetime(2018, 3, 19, 20, 0, 3, 812000),
+ 'distancia': 33.05}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  33.99 cm
+33.99
+5ab105d47f7bff05701c9c7d
+{'_id': ObjectId('5ab105d47f7bff05701c9c7d'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 10, 0, 4, 913000),
+ 'distancia': 33.99}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  210.41 cm
+210.41
+5ab121f37f7bff06cd6a2374
+{'_id': ObjectId('5ab121f37f7bff06cd6a2374'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 12, 0, 3, 711000),
+ 'distancia': 210.41}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  209.82 cm
+209.82
+5ab13e147f7bff0865e4fdf5
+{'_id': ObjectId('5ab13e147f7bff0865e4fdf5'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 14, 0, 4, 286000),
+ 'distancia': 209.82}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  158.69 cm
+158.69
+5ab15a337f7bff077f7b8381
+{'_id': ObjectId('5ab15a337f7bff077f7b8381'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 16, 0, 3, 869000),
+ 'distancia': 158.69}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  159.36 cm
+159.36
+5ab176547f7bff0992ac35ff
+{'_id': ObjectId('5ab176547f7bff0992ac35ff'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 18, 0, 4, 299000),
+ 'distancia': 159.36}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  184.54 cm
+184.54
+5ab192737f7bff0e254d0cde
+{'_id': ObjectId('5ab192737f7bff0e254d0cde'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 20, 0, 3, 657000),
+ 'distancia': 184.54}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  6.16 cm
+6.16
+5ab1ae947f7bff074a150922
+{'_id': ObjectId('5ab1ae947f7bff074a150922'),
+ 'data_hora': datetime.datetime(2018, 3, 20, 22, 0, 4, 325000),
+ 'distancia': 6.16}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  6.18 cm
+6.18
+5ab1cab47f7bff08aa3f1762
+{'_id': ObjectId('5ab1cab47f7bff08aa3f1762'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 0, 0, 4, 345000),
+ 'distancia': 6.18}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  4.94 cm
+4.94
+5ab1e6d47f7bff0a0ecd34e4
+{'_id': ObjectId('5ab1e6d47f7bff0a0ecd34e4'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 2, 0, 4, 260000),
+ 'distancia': 4.94}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  4.95 cm
+4.95
+5ab202f37f7bff0b6d79eaa8
+{'_id': ObjectId('5ab202f37f7bff0b6d79eaa8'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 4, 0, 3, 748000),
+ 'distancia': 4.95}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  3.71 cm
+3.71
+5ab21f137f7bff0cd2354dd4
+{'_id': ObjectId('5ab21f137f7bff0cd2354dd4'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 6, 0, 3, 926000),
+ 'distancia': 3.71}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  3.63 cm
+3.63
+5ab23b347f7bff5992d40bf8
+{'_id': ObjectId('5ab23b347f7bff5992d40bf8'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 8, 0, 4, 279000),
+ 'distancia': 3.63}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  131.36 cm
+131.36
+5ab273747f7bff05414cedce
+{'_id': ObjectId('5ab273747f7bff05414cedce'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 12, 0, 4, 405000),
+ 'distancia': 131.36}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  91.13 cm
+91.13
+5ab28f947f7bff05b72f8cf2
+{'_id': ObjectId('5ab28f947f7bff05b72f8cf2'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 14, 0, 4, 389000),
+ 'distancia': 91.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  102.62 cm
+102.62
+5ab2abb37f7bff066edd4184
+{'_id': ObjectId('5ab2abb37f7bff066edd4184'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 16, 0, 3, 783000),
+ 'distancia': 102.62}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  97.25 cm
+97.25
+5ab2c7d37f7bff07ce62684a
+{'_id': ObjectId('5ab2c7d37f7bff07ce62684a'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 18, 0, 3, 915000),
+ 'distancia': 97.25}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  97.48 cm
+97.48
+5ab2e3f37f7bff0a98a283bc
+{'_id': ObjectId('5ab2e3f37f7bff0a98a283bc'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 20, 0, 3, 898000),
+ 'distancia': 97.48}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  92.04 cm
+92.04
+5ab300137f7bff0bf81ec3eb
+{'_id': ObjectId('5ab300137f7bff0bf81ec3eb'),
+ 'data_hora': datetime.datetime(2018, 3, 21, 22, 0, 3, 913000),
+ 'distancia': 92.04}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  115.87 cm
+115.87
+5ab31c347f7bff0d58ade5f6
+{'_id': ObjectId('5ab31c347f7bff0d58ade5f6'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 0, 0, 4, 397000),
+ 'distancia': 115.87}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  128.44 cm
+128.44
+5ab338547f7bff0eb44d9aa1
+{'_id': ObjectId('5ab338547f7bff0eb44d9aa1'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 2, 0, 4, 250000),
+ 'distancia': 128.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  92.9 cm
+92.9
+5ab354737f7bff102344275f
+{'_id': ObjectId('5ab354737f7bff102344275f'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 4, 0, 3, 784000),
+ 'distancia': 92.9}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.89 cm
+88.89
+5ab370947f7bff1187667df6
+{'_id': ObjectId('5ab370947f7bff1187667df6'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 6, 0, 4, 395000),
+ 'distancia': 88.89}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  92.05 cm
+92.05
+5ab38cb47f7bff138dbd08d6
+{'_id': ObjectId('5ab38cb47f7bff138dbd08d6'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 8, 0, 4, 286000),
+ 'distancia': 92.05}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  87.04 cm
+87.04
+5ab3a8d37f7bff14fd6803c8
+{'_id': ObjectId('5ab3a8d37f7bff14fd6803c8'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 10, 0, 3, 871000),
+ 'distancia': 87.04}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  93.52 cm
+93.52
+5ab3c4f47f7bff165b345d2b
+{'_id': ObjectId('5ab3c4f47f7bff165b345d2b'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 12, 0, 4, 303000),
+ 'distancia': 93.52}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  95.1 cm
+95.1
+5ab3e1147f7bff17b478ea8f
+{'_id': ObjectId('5ab3e1147f7bff17b478ea8f'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 14, 0, 4, 277000),
+ 'distancia': 95.1}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.05 cm
+83.05
+5ab3fd337f7bff1923b7dc81
+{'_id': ObjectId('5ab3fd337f7bff1923b7dc81'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 16, 0, 3, 828000),
+ 'distancia': 83.05}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.4 cm
+82.4
+5ab419547f7bff1a84b24534
+{'_id': ObjectId('5ab419547f7bff1a84b24534'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 18, 0, 4, 230000),
+ 'distancia': 82.4}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.4 cm
+76.4
+5ab435747f7bff1bdf778dee
+{'_id': ObjectId('5ab435747f7bff1bdf778dee'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 20, 0, 4, 198000),
+ 'distancia': 76.4}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.56 cm
+75.56
+5ab451937f7bff1d497ff753
+{'_id': ObjectId('5ab451937f7bff1d497ff753'),
+ 'data_hora': datetime.datetime(2018, 3, 22, 22, 0, 3, 681000),
+ 'distancia': 75.56}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  98.43 cm
+98.43
+5ab46db47f7bff1eac118aaa
+{'_id': ObjectId('5ab46db47f7bff1eac118aaa'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 0, 0, 4, 150000),
+ 'distancia': 98.43}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  106.7 cm
+106.7
+5ab489d47f7bff20089e2626
+{'_id': ObjectId('5ab489d47f7bff20089e2626'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 2, 0, 4, 95000),
+ 'distancia': 106.7}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  113.89 cm
+113.89
+5ab4a5f47f7bff2170cd3826
+{'_id': ObjectId('5ab4a5f47f7bff2170cd3826'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 4, 0, 4, 156000),
+ 'distancia': 113.89}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  107.98 cm
+107.98
+5ab4c2147f7bff22ce045adb
+{'_id': ObjectId('5ab4c2147f7bff22ce045adb'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 6, 0, 4, 294000),
+ 'distancia': 107.98}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.08 cm
+80.08
+5ab4de347f7bff24d474af83
+{'_id': ObjectId('5ab4de347f7bff24d474af83'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 8, 0, 4, 205000),
+ 'distancia': 80.08}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.55 cm
+79.55
+5ab4fa537f7bff2633499375
+{'_id': ObjectId('5ab4fa537f7bff2633499375'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 10, 0, 3, 877000),
+ 'distancia': 79.55}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.16 cm
+81.16
+5ab516737f7bff27933b2fe5
+{'_id': ObjectId('5ab516737f7bff27933b2fe5'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 12, 0, 3, 961000),
+ 'distancia': 81.16}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.72 cm
+83.72
+5ab532947f7bff28eefaac7a
+{'_id': ObjectId('5ab532947f7bff28eefaac7a'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 14, 0, 4, 627000),
+ 'distancia': 83.72}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.07 cm
+74.07
+5ab54eb47f7bff2a556993f5
+{'_id': ObjectId('5ab54eb47f7bff2a556993f5'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 16, 0, 4, 586000),
+ 'distancia': 74.07}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.66 cm
+74.66
+5ab56ad47f7bff2bb78b6f3e
+{'_id': ObjectId('5ab56ad47f7bff2bb78b6f3e'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 18, 0, 4, 88000),
+ 'distancia': 74.66}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.48 cm
+82.48
+5ab586f37f7bff2d16b51613
+{'_id': ObjectId('5ab586f37f7bff2d16b51613'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 20, 0, 3, 790000),
+ 'distancia': 82.48}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.15 cm
+71.15
+5ab5a3147f7bff2e796abcfd
+{'_id': ObjectId('5ab5a3147f7bff2e796abcfd'),
+ 'data_hora': datetime.datetime(2018, 3, 23, 22, 0, 4, 498000),
+ 'distancia': 71.15}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.61 cm
+72.61
+5ab5bf347f7bff2fe37ca6f9
+{'_id': ObjectId('5ab5bf347f7bff2fe37ca6f9'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 0, 0, 4, 413000),
+ 'distancia': 72.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.64 cm
+81.64
+5ab5db547f7bff314400ec45
+{'_id': ObjectId('5ab5db547f7bff314400ec45'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 2, 0, 4, 559000),
+ 'distancia': 81.64}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  97.91 cm
+97.91
+5ab5f7747f7bff32aef53f17
+{'_id': ObjectId('5ab5f7747f7bff32aef53f17'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 4, 0, 4, 602000),
+ 'distancia': 97.91}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.51 cm
+79.51
+5ab613947f7bff341323d835
+{'_id': ObjectId('5ab613947f7bff341323d835'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 6, 0, 4, 667000),
+ 'distancia': 79.51}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.48 cm
+80.48
+5ab62fb37f7bff3614f49c2f
+{'_id': ObjectId('5ab62fb37f7bff3614f49c2f'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 8, 0, 3, 673000),
+ 'distancia': 80.48}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.29 cm
+81.29
+5ab64bd47f7bff37747ce569
+{'_id': ObjectId('5ab64bd47f7bff37747ce569'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 10, 0, 4, 617000),
+ 'distancia': 81.29}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.54 cm
+80.54
+5ab667f47f7bff38d6a824a9
+{'_id': ObjectId('5ab667f47f7bff38d6a824a9'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 12, 0, 4, 546000),
+ 'distancia': 80.54}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.56 cm
+79.56
+5ab684147f7bff3a388dbcf0
+{'_id': ObjectId('5ab684147f7bff3a388dbcf0'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 14, 0, 4, 291000),
+ 'distancia': 79.56}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.55 cm
+70.55
+5ab6a0347f7bff3bac99ae17
+{'_id': ObjectId('5ab6a0347f7bff3bac99ae17'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 16, 0, 4, 478000),
+ 'distancia': 70.55}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.13 cm
+70.13
+5ab6bc537f7bff3d03afdcf0
+{'_id': ObjectId('5ab6bc537f7bff3d03afdcf0'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 18, 0, 3, 697000),
+ 'distancia': 70.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.44 cm
+71.44
+5ab6d8737f7bff3e66f3b683
+{'_id': ObjectId('5ab6d8737f7bff3e66f3b683'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 20, 0, 3, 826000),
+ 'distancia': 71.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.81 cm
+71.81
+5ab6f4937f7bff3fc7c45e1b
+{'_id': ObjectId('5ab6f4937f7bff3fc7c45e1b'),
+ 'data_hora': datetime.datetime(2018, 3, 24, 22, 0, 3, 954000),
+ 'distancia': 71.81}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  89.33 cm
+89.33
+5ab710b47f7bff412a3468f3
+{'_id': ObjectId('5ab710b47f7bff412a3468f3'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 0, 0, 4, 80000),
+ 'distancia': 89.33}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.88 cm
+84.88
+5ab72cd37f7bff4294c3561b
+{'_id': ObjectId('5ab72cd37f7bff4294c3561b'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 2, 0, 3, 678000),
+ 'distancia': 84.88}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.48 cm
+81.48
+5ab748f47f7bff44027f3c04
+{'_id': ObjectId('5ab748f47f7bff44027f3c04'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 4, 0, 4, 333000),
+ 'distancia': 81.48}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  106.34 cm
+106.34
+5ab765147f7bff4569a735c3
+{'_id': ObjectId('5ab765147f7bff4569a735c3'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 6, 0, 4, 619000),
+ 'distancia': 106.34}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  87.74 cm
+87.74
+5ab781337f7bff47d8480ccd
+{'_id': ObjectId('5ab781337f7bff47d8480ccd'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 8, 0, 3, 794000),
+ 'distancia': 87.74}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  68.86 cm
+68.86
+5ab79d537f7bff493680dc56
+{'_id': ObjectId('5ab79d537f7bff493680dc56'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 10, 0, 3, 739000),
+ 'distancia': 68.86}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.14 cm
+72.14
+5ab7b9747f7bff4a92a55c9c
+{'_id': ObjectId('5ab7b9747f7bff4a92a55c9c'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 12, 0, 4, 305000),
+ 'distancia': 72.14}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.76 cm
+71.76
+5ab7d5937f7bff4bf30562b7
+{'_id': ObjectId('5ab7d5937f7bff4bf30562b7'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 14, 0, 3, 986000),
+ 'distancia': 71.76}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.61 cm
+72.61
+5ab7f1b47f7bff4d6411bc94
+{'_id': ObjectId('5ab7f1b47f7bff4d6411bc94'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 16, 0, 4, 63000),
+ 'distancia': 72.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.19 cm
+82.19
+5ab80dd47f7bff4ec459e831
+{'_id': ObjectId('5ab80dd47f7bff4ec459e831'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 18, 0, 4, 274000),
+ 'distancia': 82.19}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.03 cm
+71.03
+5ab829f47f7bff5021f503e8
+{'_id': ObjectId('5ab829f47f7bff5021f503e8'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 20, 0, 4, 319000),
+ 'distancia': 71.03}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.78 cm
+69.78
+5ab846147f7bff517dff9a66
+{'_id': ObjectId('5ab846147f7bff517dff9a66'),
+ 'data_hora': datetime.datetime(2018, 3, 25, 22, 0, 4, 397000),
+ 'distancia': 69.78}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.0 cm
+80.0
+5ab862347f7bff52e113cc1e
+{'_id': ObjectId('5ab862347f7bff52e113cc1e'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 0, 0, 4, 545000),
+ 'distancia': 80.0}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.02 cm
+83.02
+5ab87e547f7bff5443db3f11
+{'_id': ObjectId('5ab87e547f7bff5443db3f11'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 2, 0, 4, 524000),
+ 'distancia': 83.02}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  97.09 cm
+97.09
+5ab89a747f7bff55afd5b404
+{'_id': ObjectId('5ab89a747f7bff55afd5b404'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 4, 0, 4, 250000),
+ 'distancia': 97.09}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  85.95 cm
+85.95
+5ab8b6947f7bff57158c8f31
+{'_id': ObjectId('5ab8b6947f7bff57158c8f31'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 6, 0, 4, 499000),
+ 'distancia': 85.95}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.53 cm
+75.53
+5ab8d2b37f7bff590f1ed746
+{'_id': ObjectId('5ab8d2b37f7bff590f1ed746'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 8, 0, 3, 869000),
+ 'distancia': 75.53}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.42 cm
+67.42
+5ab8eed47f7bff5a69d567b6
+{'_id': ObjectId('5ab8eed47f7bff5a69d567b6'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 10, 0, 4, 511000),
+ 'distancia': 67.42}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.63 cm
+88.63
+5ab90af47f7bff5bc55482f4
+{'_id': ObjectId('5ab90af47f7bff5bc55482f4'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 12, 0, 4, 487000),
+ 'distancia': 88.63}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.05 cm
+69.05
+5ab927147f7bff5d1d1f5e3d
+{'_id': ObjectId('5ab927147f7bff5d1d1f5e3d'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 14, 0, 4, 482000),
+ 'distancia': 69.05}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.83 cm
+72.83
+5ab943337f7bff5e8dc9495a
+{'_id': ObjectId('5ab943337f7bff5e8dc9495a'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 16, 0, 3, 930000),
+ 'distancia': 72.83}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.37 cm
+73.37
+5ab95f537f7bff5fee921d40
+{'_id': ObjectId('5ab95f537f7bff5fee921d40'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 18, 0, 3, 995000),
+ 'distancia': 73.37}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.13 cm
+69.13
+5ab97b747f7bff614cbc05cb
+{'_id': ObjectId('5ab97b747f7bff614cbc05cb'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 20, 0, 4, 454000),
+ 'distancia': 69.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.12 cm
+76.12
+5ab997947f7bff62aa05bf6c
+{'_id': ObjectId('5ab997947f7bff62aa05bf6c'),
+ 'data_hora': datetime.datetime(2018, 3, 26, 22, 0, 4, 438000),
+ 'distancia': 76.12}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.14 cm
+83.14
+5ab9b3b47f7bff640939e735
+{'_id': ObjectId('5ab9b3b47f7bff640939e735'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 0, 0, 4, 110000),
+ 'distancia': 83.14}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.57 cm
+79.57
+5ab9cfd47f7bff6561614257
+{'_id': ObjectId('5ab9cfd47f7bff6561614257'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 2, 0, 4, 148000),
+ 'distancia': 79.57}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  118.44 cm
+118.44
+5ab9ebf47f7bff66c93753f8
+{'_id': ObjectId('5ab9ebf47f7bff66c93753f8'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 4, 0, 4, 90000),
+ 'distancia': 118.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.57 cm
+82.57
+5aba08147f7bff683677551f
+{'_id': ObjectId('5aba08147f7bff683677551f'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 6, 0, 4, 277000),
+ 'distancia': 82.57}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  85.92 cm
+85.92
+5aba24347f7bff6a35fa0b06
+{'_id': ObjectId('5aba24347f7bff6a35fa0b06'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 8, 0, 4, 428000),
+ 'distancia': 85.92}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  68.83 cm
+68.83
+5aba40537f7bff6b964818c4
+{'_id': ObjectId('5aba40537f7bff6b964818c4'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 10, 0, 3, 950000),
+ 'distancia': 68.83}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.12 cm
+67.12
+5aba5c747f7bff6cf2fc65bb
+{'_id': ObjectId('5aba5c747f7bff6cf2fc65bb'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 12, 0, 4, 75000),
+ 'distancia': 67.12}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.31 cm
+72.31
+5aba78947f7bff066639c3d7
+{'_id': ObjectId('5aba78947f7bff066639c3d7'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 14, 0, 4, 422000),
+ 'distancia': 72.31}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.68 cm
+74.68
+5aba94b47f7bff07d07c8244
+{'_id': ObjectId('5aba94b47f7bff07d07c8244'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 16, 0, 4, 356000),
+ 'distancia': 74.68}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.86 cm
+79.86
+5abab0d47f7bff09422fa848
+{'_id': ObjectId('5abab0d47f7bff09422fa848'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 18, 0, 4, 127000),
+ 'distancia': 79.86}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.87 cm
+67.87
+5abaccf47f7bff0aa8907384
+{'_id': ObjectId('5abaccf47f7bff0aa8907384'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 20, 0, 4, 135000),
+ 'distancia': 67.87}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.28 cm
+67.28
+5abae9147f7bff0c0c6c32fd
+{'_id': ObjectId('5abae9147f7bff0c0c6c32fd'),
+ 'data_hora': datetime.datetime(2018, 3, 27, 22, 0, 4, 257000),
+ 'distancia': 67.28}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.98 cm
+70.98
+5abb05347f7bff0d6c47bc5f
+{'_id': ObjectId('5abb05347f7bff0d6c47bc5f'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 0, 0, 4, 14000),
+ 'distancia': 70.98}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.69 cm
+84.69
+5abb21547f7bff0edc72daed
+{'_id': ObjectId('5abb21547f7bff0edc72daed'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 2, 0, 4, 50000),
+ 'distancia': 84.69}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  89.16 cm
+89.16
+5abb3d747f7bff103f87c296
+{'_id': ObjectId('5abb3d747f7bff103f87c296'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 4, 0, 4, 179000),
+ 'distancia': 89.16}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  85.58 cm
+85.58
+5abb59947f7bff11ade2d383
+{'_id': ObjectId('5abb59947f7bff11ade2d383'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 6, 0, 4, 553000),
+ 'distancia': 85.58}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.45 cm
+76.45
+5abb75b47f7bff13ae4d30a2
+{'_id': ObjectId('5abb75b47f7bff13ae4d30a2'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 8, 0, 4, 620000),
+ 'distancia': 76.45}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.61 cm
+69.61
+5abb91d47f7bff150c9c6990
+{'_id': ObjectId('5abb91d47f7bff150c9c6990'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 10, 0, 4, 368000),
+ 'distancia': 69.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.44 cm
+73.44
+5abbadf37f7bff1671d75c50
+{'_id': ObjectId('5abbadf37f7bff1671d75c50'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 12, 0, 3, 773000),
+ 'distancia': 73.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  77.06 cm
+77.06
+5abbca147f7bff17db28ac06
+{'_id': ObjectId('5abbca147f7bff17db28ac06'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 14, 0, 4, 491000),
+ 'distancia': 77.06}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.14 cm
+69.14
+5abbe6347f7bff1939bf80fb
+{'_id': ObjectId('5abbe6347f7bff1939bf80fb'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 16, 0, 4, 423000),
+ 'distancia': 69.14}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.41 cm
+67.41
+5abc02547f7bff1a94167f6d
+{'_id': ObjectId('5abc02547f7bff1a94167f6d'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 18, 0, 4, 237000),
+ 'distancia': 67.41}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  64.13 cm
+64.13
+5abc1e737f7bff1bf99c1807
+{'_id': ObjectId('5abc1e737f7bff1bf99c1807'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 20, 0, 3, 896000),
+ 'distancia': 64.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.66 cm
+66.66
+5abc3a937f7bff1d51266db4
+{'_id': ObjectId('5abc3a937f7bff1d51266db4'),
+ 'data_hora': datetime.datetime(2018, 3, 28, 22, 0, 3, 815000),
+ 'distancia': 66.66}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.0 cm
+80.0
+5abc56b47f7bff1eb286a205
+{'_id': ObjectId('5abc56b47f7bff1eb286a205'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 0, 0, 4, 368000),
+ 'distancia': 80.0}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.79 cm
+80.79
+5abc72d37f7bff20242eddbc
+{'_id': ObjectId('5abc72d37f7bff20242eddbc'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 2, 0, 3, 860000),
+ 'distancia': 80.79}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.85 cm
+70.85
+5abc8ef47f7bff218ca7f878
+{'_id': ObjectId('5abc8ef47f7bff218ca7f878'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 4, 0, 4, 330000),
+ 'distancia': 70.85}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.64 cm
+72.64
+5abcab147f7bff22f2cef03b
+{'_id': ObjectId('5abcab147f7bff22f2cef03b'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 6, 0, 4, 161000),
+ 'distancia': 72.64}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  63.61 cm
+63.61
+5abcc7347f7bff24f65a307f
+{'_id': ObjectId('5abcc7347f7bff24f65a307f'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 8, 0, 4, 402000),
+ 'distancia': 63.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.1 cm
+66.1
+5abce3547f7bff265ed87966
+{'_id': ObjectId('5abce3547f7bff265ed87966'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 10, 0, 4, 530000),
+ 'distancia': 66.1}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  65.28 cm
+65.28
+5abcff747f7bff27be4e08b3
+{'_id': ObjectId('5abcff747f7bff27be4e08b3'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 12, 0, 4, 399000),
+ 'distancia': 65.28}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  63.56 cm
+63.56
+5abd1b947f7bff292d9c7cb8
+{'_id': ObjectId('5abd1b947f7bff292d9c7cb8'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 14, 0, 4, 150000),
+ 'distancia': 63.56}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  65.66 cm
+65.66
+5abd37b37f7bff2a9277c9e8
+{'_id': ObjectId('5abd37b37f7bff2a9277c9e8'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 16, 0, 3, 709000),
+ 'distancia': 65.66}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.68 cm
+75.68
+5abd53d37f7bff2bf490b5e0
+{'_id': ObjectId('5abd53d37f7bff2bf490b5e0'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 18, 0, 3, 904000),
+ 'distancia': 75.68}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  62.87 cm
+62.87
+5abd6ff47f7bff2d5c8ef708
+{'_id': ObjectId('5abd6ff47f7bff2d5c8ef708'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 20, 0, 4, 557000),
+ 'distancia': 62.87}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.47 cm
+67.47
+5abd8c147f7bff2ebe153db8
+{'_id': ObjectId('5abd8c147f7bff2ebe153db8'),
+ 'data_hora': datetime.datetime(2018, 3, 29, 22, 0, 4, 633000),
+ 'distancia': 67.47}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.77 cm
+84.77
+5abda8347f7bff3020cac00a
+{'_id': ObjectId('5abda8347f7bff3020cac00a'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 0, 0, 4, 368000),
+ 'distancia': 84.77}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.46 cm
+79.46
+5abdc4537f7bff3193734db0
+{'_id': ObjectId('5abdc4537f7bff3193734db0'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 2, 0, 3, 957000),
+ 'distancia': 79.46}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.39 cm
+76.39
+5abde0747f7bff32f77e11ac
+{'_id': ObjectId('5abde0747f7bff32f77e11ac'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 4, 0, 4, 648000),
+ 'distancia': 76.39}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.41 cm
+84.41
+5abdfc947f7bff345afbed31
+{'_id': ObjectId('5abdfc947f7bff345afbed31'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 6, 0, 4, 500000),
+ 'distancia': 84.41}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  61.06 cm
+61.06
+5abe18b47f7bff3658c8eb4a
+{'_id': ObjectId('5abe18b47f7bff3658c8eb4a'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 8, 0, 4, 210000),
+ 'distancia': 61.06}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.82 cm
+66.82
+5abe34d47f7bff37c36f8128
+{'_id': ObjectId('5abe34d47f7bff37c36f8128'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 10, 0, 4, 298000),
+ 'distancia': 66.82}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.21 cm
+67.21
+5abe50f47f7bff3927f0d554
+{'_id': ObjectId('5abe50f47f7bff3927f0d554'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 12, 0, 4, 574000),
+ 'distancia': 67.21}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.7 cm
+70.7
+5abe6d137f7bff3a98fb7dcf
+{'_id': ObjectId('5abe6d137f7bff3a98fb7dcf'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 14, 0, 3, 675000),
+ 'distancia': 70.7}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  60.19 cm
+60.19
+5abe89347f7bff3bfbcd974d
+{'_id': ObjectId('5abe89347f7bff3bfbcd974d'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 16, 0, 4, 316000),
+ 'distancia': 60.19}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  68.13 cm
+68.13
+5abea5547f7bff3d6167f69b
+{'_id': ObjectId('5abea5547f7bff3d6167f69b'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 18, 0, 4, 367000),
+ 'distancia': 68.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.91 cm
+66.91
+5abec1737f7bff3ec447fe5a
+{'_id': ObjectId('5abec1737f7bff3ec447fe5a'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 20, 0, 3, 856000),
+ 'distancia': 66.91}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.04 cm
+69.04
+5abedd937f7bff402238ab15
+{'_id': ObjectId('5abedd937f7bff402238ab15'),
+ 'data_hora': datetime.datetime(2018, 3, 30, 22, 0, 3, 862000),
+ 'distancia': 69.04}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.26 cm
+88.26
+5abef9b47f7bff417e89fa73
+{'_id': ObjectId('5abef9b47f7bff417e89fa73'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 0, 0, 4, 396000),
+ 'distancia': 88.26}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.09 cm
+78.09
+5abf15d37f7bff42e9966263
+{'_id': ObjectId('5abf15d37f7bff42e9966263'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 2, 0, 3, 918000),
+ 'distancia': 78.09}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  80.54 cm
+80.54
+5abf31f47f7bff4445276c19
+{'_id': ObjectId('5abf31f47f7bff4445276c19'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 4, 0, 4, 1000),
+ 'distancia': 80.54}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.29 cm
+71.29
+5abf4e147f7bff45ad6478d7
+{'_id': ObjectId('5abf4e147f7bff45ad6478d7'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 6, 0, 4, 310000),
+ 'distancia': 71.29}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.86 cm
+72.86
+5abf6a337f7bff47ab43e864
+{'_id': ObjectId('5abf6a337f7bff47ab43e864'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 8, 0, 3, 766000),
+ 'distancia': 72.86}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.3 cm
+76.3
+5abf86547f7bff490a54fff7
+{'_id': ObjectId('5abf86547f7bff490a54fff7'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 10, 0, 4, 279000),
+ 'distancia': 76.3}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  58.06 cm
+58.06
+5abfa2737f7bff4a706a26ad
+{'_id': ObjectId('5abfa2737f7bff4a706a26ad'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 12, 0, 3, 790000),
+ 'distancia': 58.06}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  77.87 cm
+77.87
+5abfbe937f7bff4be7b9fcbf
+{'_id': ObjectId('5abfbe937f7bff4be7b9fcbf'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 14, 0, 3, 915000),
+ 'distancia': 77.87}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.13 cm
+76.13
+5abfdab37f7bff4d4c653b73
+{'_id': ObjectId('5abfdab37f7bff4d4c653b73'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 16, 0, 3, 877000),
+ 'distancia': 76.13}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  63.22 cm
+63.22
+5abff6d47f7bff4eaa8a2d45
+{'_id': ObjectId('5abff6d47f7bff4eaa8a2d45'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 18, 0, 4, 147000),
+ 'distancia': 63.22}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  58.55 cm
+58.55
+5ac012f47f7bff500a026462
+{'_id': ObjectId('5ac012f47f7bff500a026462'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 20, 0, 4, 105000),
+ 'distancia': 58.55}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  59.47 cm
+59.47
+5ac02f147f7bff517083f484
+{'_id': ObjectId('5ac02f147f7bff517083f484'),
+ 'data_hora': datetime.datetime(2018, 3, 31, 22, 0, 4, 10000),
+ 'distancia': 59.47}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.25 cm
+74.25
+5ac04b347f7bff52d067ef09
+{'_id': ObjectId('5ac04b347f7bff52d067ef09'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 0, 0, 4, 15000),
+ 'distancia': 74.25}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.79 cm
+71.79
+5ac067547f7bff5444f627db
+{'_id': ObjectId('5ac067547f7bff5444f627db'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 2, 0, 4, 235000),
+ 'distancia': 71.79}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.69 cm
+75.69
+5ac083737f7bff55a0c61ae7
+{'_id': ObjectId('5ac083737f7bff55a0c61ae7'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 4, 0, 3, 770000),
+ 'distancia': 75.69}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.22 cm
+78.22
+5ac09f947f7bff57000a0222
+{'_id': ObjectId('5ac09f947f7bff57000a0222'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 6, 0, 4, 236000),
+ 'distancia': 78.22}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  60.18 cm
+60.18
+5ac0bbb47f7bff5913811c8c
+{'_id': ObjectId('5ac0bbb47f7bff5913811c8c'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 8, 0, 4, 596000),
+ 'distancia': 60.18}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.6 cm
+72.6
+5ac0d7d37f7bff5a7aa151b0
+{'_id': ObjectId('5ac0d7d37f7bff5a7aa151b0'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 10, 0, 3, 783000),
+ 'distancia': 72.6}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  64.67 cm
+64.67
+5ac0f3f47f7bff5bd8ad2321
+{'_id': ObjectId('5ac0f3f47f7bff5bd8ad2321'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 12, 0, 4, 280000),
+ 'distancia': 64.67}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  64.58 cm
+64.58
+5ac110137f7bff5d4d7b2636
+{'_id': ObjectId('5ac110137f7bff5d4d7b2636'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 14, 0, 3, 796000),
+ 'distancia': 64.58}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.07 cm
+74.07
+5ac12c347f7bff5eabd6a924
+{'_id': ObjectId('5ac12c347f7bff5eabd6a924'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 16, 0, 4, 377000),
+ 'distancia': 74.07}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.67 cm
+73.67
+5ac148547f7bff600b6eccab
+{'_id': ObjectId('5ac148547f7bff600b6eccab'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 18, 0, 4, 565000),
+ 'distancia': 73.67}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.8 cm
+66.8
+5ac164747f7bff6171993726
+{'_id': ObjectId('5ac164747f7bff6171993726'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 20, 0, 4, 369000),
+ 'distancia': 66.8}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.36 cm
+73.36
+5ac180947f7bff62d1852a75
+{'_id': ObjectId('5ac180947f7bff62d1852a75'),
+ 'data_hora': datetime.datetime(2018, 4, 1, 22, 0, 4, 364000),
+ 'distancia': 73.36}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.17 cm
+78.17
+5ac19cb47f7bff6430ff5194
+{'_id': ObjectId('5ac19cb47f7bff6430ff5194'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 0, 0, 4, 454000),
+ 'distancia': 78.17}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  91.32 cm
+91.32
+5ac1b8d37f7bff65a7944707
+{'_id': ObjectId('5ac1b8d37f7bff65a7944707'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 2, 0, 3, 966000),
+ 'distancia': 91.32}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.16 cm
+79.16
+5ac1d4f47f7bff670bbadf2c
+{'_id': ObjectId('5ac1d4f47f7bff670bbadf2c'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 4, 0, 4, 399000),
+ 'distancia': 79.16}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.46 cm
+73.46
+5ac1f1147f7bff686fd72237
+{'_id': ObjectId('5ac1f1147f7bff686fd72237'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 6, 0, 4, 14000),
+ 'distancia': 73.46}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  63.81 cm
+63.81
+5ac20d347f7bff6ad61bea4e
+{'_id': ObjectId('5ac20d347f7bff6ad61bea4e'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 8, 0, 4, 499000),
+ 'distancia': 63.81}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.46 cm
+75.46
+5ac229547f7bff6c348b085f
+{'_id': ObjectId('5ac229547f7bff6c348b085f'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 10, 0, 4, 70000),
+ 'distancia': 75.46}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.88 cm
+78.88
+5ac245747f7bff6d97863817
+{'_id': ObjectId('5ac245747f7bff6d97863817'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 12, 0, 4, 657000),
+ 'distancia': 78.88}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.05 cm
+69.05
+5ac261947f7bff6f02c0eaa4
+{'_id': ObjectId('5ac261947f7bff6f02c0eaa4'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 14, 0, 4, 660000),
+ 'distancia': 69.05}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.6 cm
+66.6
+5ac27db47f7bff705fb9b75c
+{'_id': ObjectId('5ac27db47f7bff705fb9b75c'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 16, 0, 4, 288000),
+ 'distancia': 66.6}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  77.37 cm
+77.37
+5ac299d47f7bff71b892050a
+{'_id': ObjectId('5ac299d47f7bff71b892050a'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 18, 0, 4, 637000),
+ 'distancia': 77.37}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.73 cm
+74.73
+5ac2b5f47f7bff731003bfc6
+{'_id': ObjectId('5ac2b5f47f7bff731003bfc6'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 20, 0, 4, 116000),
+ 'distancia': 74.73}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.59 cm
+78.59
+5ac2d2137f7bff746a981929
+{'_id': ObjectId('5ac2d2137f7bff746a981929'),
+ 'data_hora': datetime.datetime(2018, 4, 2, 22, 0, 3, 864000),
+ 'distancia': 78.59}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  112.2 cm
+112.2
+5ac2ee347f7bff75cbc5ef29
+{'_id': ObjectId('5ac2ee347f7bff75cbc5ef29'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 0, 0, 4, 499000),
+ 'distancia': 112.2}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.09 cm
+83.09
+5ac30a537f7bff7737ac9752
+{'_id': ObjectId('5ac30a537f7bff7737ac9752'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 2, 0, 3, 972000),
+ 'distancia': 83.09}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.97 cm
+84.97
+5ac326747f7bff789ecc9e08
+{'_id': ObjectId('5ac326747f7bff789ecc9e08'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 4, 0, 4, 90000),
+ 'distancia': 84.97}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.72 cm
+88.72
+5ac342937f7bff7a07d9d193
+{'_id': ObjectId('5ac342937f7bff7a07d9d193'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 6, 0, 3, 814000),
+ 'distancia': 88.72}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.31 cm
+79.31
+5ac35eb47f7bff7c038a89ae
+{'_id': ObjectId('5ac35eb47f7bff7c038a89ae'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 8, 0, 4, 248000),
+ 'distancia': 79.31}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.59 cm
+82.59
+5ac37ad37f7bff7d5f2ee523
+{'_id': ObjectId('5ac37ad37f7bff7d5f2ee523'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 10, 0, 3, 678000),
+ 'distancia': 82.59}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.61 cm
+83.61
+5ac396f47f7bff7ec1887d9e
+{'_id': ObjectId('5ac396f47f7bff7ec1887d9e'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 12, 0, 4, 179000),
+ 'distancia': 83.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  60.71 cm
+60.71
+5ac3b3147f7bff015a77e65b
+{'_id': ObjectId('5ac3b3147f7bff015a77e65b'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 14, 0, 4, 216000),
+ 'distancia': 60.71}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  60.21 cm
+60.21
+5ac3cf347f7bff02d8a5cca2
+{'_id': ObjectId('5ac3cf347f7bff02d8a5cca2'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 16, 0, 4, 316000),
+ 'distancia': 60.21}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  83.97 cm
+83.97
+5ac3eb537f7bff0450512cf0
+{'_id': ObjectId('5ac3eb537f7bff0450512cf0'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 18, 0, 3, 741000),
+ 'distancia': 83.97}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.4 cm
+73.4
+5ac407747f7bff05eb3629ca
+{'_id': ObjectId('5ac407747f7bff05eb3629ca'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 20, 0, 4, 622000),
+ 'distancia': 73.4}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.92 cm
+74.92
+5ac423947f7bff074c4f4b85
+{'_id': ObjectId('5ac423947f7bff074c4f4b85'),
+ 'data_hora': datetime.datetime(2018, 4, 3, 22, 0, 4, 412000),
+ 'distancia': 74.92}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  79.59 cm
+79.59
+5ac43fb37f7bff08adea4259
+{'_id': ObjectId('5ac43fb37f7bff08adea4259'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 0, 0, 3, 978000),
+ 'distancia': 79.59}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.61 cm
+81.61
+5ac45bd47f7bff0a1b03a9a4
+{'_id': ObjectId('5ac45bd47f7bff0a1b03a9a4'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 2, 0, 4, 520000),
+ 'distancia': 81.61}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.38 cm
+70.38
+5ac477f47f7bff0b789b40ac
+{'_id': ObjectId('5ac477f47f7bff0b789b40ac'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 4, 0, 4, 533000),
+ 'distancia': 70.38}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  68.3 cm
+68.3
+5ac494147f7bff0cdb8703c4
+{'_id': ObjectId('5ac494147f7bff0cdb8703c4'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 6, 0, 4, 321000),
+ 'distancia': 68.3}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.76 cm
+69.76
+5ac4b0337f7bff0edd2c7c16
+{'_id': ObjectId('5ac4b0337f7bff0edd2c7c16'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 8, 0, 3, 696000),
+ 'distancia': 69.76}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.41 cm
+70.41
+5ac4cc537f7bff103e7b35e9
+{'_id': ObjectId('5ac4cc537f7bff103e7b35e9'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 10, 0, 3, 775000),
+ 'distancia': 70.41}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.19 cm
+76.19
+5ac4e8737f7bff119f707b03
+{'_id': ObjectId('5ac4e8737f7bff119f707b03'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 12, 0, 3, 849000),
+ 'distancia': 76.19}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  60.96 cm
+60.96
+5ac504947f7bff1308cee22b
+{'_id': ObjectId('5ac504947f7bff1308cee22b'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 14, 0, 4, 479000),
+ 'distancia': 60.96}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  67.14 cm
+67.14
+5ac520b47f7bff14687fdac8
+{'_id': ObjectId('5ac520b47f7bff14687fdac8'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 16, 0, 4, 625000),
+ 'distancia': 67.14}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  68.91 cm
+68.91
+5ac53cd47f7bff15c771bc36
+{'_id': ObjectId('5ac53cd47f7bff15c771bc36'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 18, 0, 4, 108000),
+ 'distancia': 68.91}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  57.71 cm
+57.71
+5ac558f47f7bff17294ad1bd
+{'_id': ObjectId('5ac558f47f7bff17294ad1bd'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 20, 0, 4, 193000),
+ 'distancia': 57.71}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  61.07 cm
+61.07
+5ac575147f7bff1886065294
+{'_id': ObjectId('5ac575147f7bff1886065294'),
+ 'data_hora': datetime.datetime(2018, 4, 4, 22, 0, 4, 262000),
+ 'distancia': 61.07}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.63 cm
+74.63
+5ac591347f7bff19ea4d06a7
+{'_id': ObjectId('5ac591347f7bff19ea4d06a7'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 0, 0, 4, 442000),
+ 'distancia': 74.63}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  71.77 cm
+71.77
+5ac5ad537f7bff1b59714204
+{'_id': ObjectId('5ac5ad537f7bff1b59714204'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 2, 0, 3, 971000),
+ 'distancia': 71.77}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  93.67 cm
+93.67
+5ac5c9737f7bff1cbcfb6796
+{'_id': ObjectId('5ac5c9737f7bff1cbcfb6796'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 4, 0, 3, 932000),
+ 'distancia': 93.67}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.29 cm
+82.29
+5ac5e5947f7bff1e22d760a3
+{'_id': ObjectId('5ac5e5947f7bff1e22d760a3'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 6, 0, 4, 586000),
+ 'distancia': 82.29}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.54 cm
+76.54
+5ac601b37f7bff2024d6412e
+{'_id': ObjectId('5ac601b37f7bff2024d6412e'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 8, 0, 3, 984000),
+ 'distancia': 76.54}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  56.77 cm
+56.77
+5ac61dd47f7bff218874235f
+{'_id': ObjectId('5ac61dd47f7bff218874235f'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 10, 0, 4, 548000),
+ 'distancia': 56.77}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  56.71 cm
+56.71
+5ac639f37f7bff22e88b6e67
+{'_id': ObjectId('5ac639f37f7bff22e88b6e67'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 12, 0, 3, 727000),
+ 'distancia': 56.71}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  73.59 cm
+73.59
+5ac656137f7bff2458f4c59f
+{'_id': ObjectId('5ac656137f7bff2458f4c59f'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 14, 0, 3, 841000),
+ 'distancia': 73.59}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  58.58 cm
+58.58
+5ac672347f7bff25b27574aa
+{'_id': ObjectId('5ac672347f7bff25b27574aa'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 16, 0, 4, 420000),
+ 'distancia': 58.58}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  64.59 cm
+64.59
+5ac68e547f7bff2715d46669
+{'_id': ObjectId('5ac68e547f7bff2715d46669'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 18, 0, 4, 582000),
+ 'distancia': 64.59}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.38 cm
+70.38
+5ac6aa747f7bff287b1abdb2
+{'_id': ObjectId('5ac6aa747f7bff287b1abdb2'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 20, 0, 4, 453000),
+ 'distancia': 70.38}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  76.76 cm
+76.76
+5ac6c6947f7bff29e8068aaa
+{'_id': ObjectId('5ac6c6947f7bff29e8068aaa'),
+ 'data_hora': datetime.datetime(2018, 4, 5, 22, 0, 4, 359000),
+ 'distancia': 76.76}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.76 cm
+78.76
+5ac6e2b47f7bff2b4b2a3e12
+{'_id': ObjectId('5ac6e2b47f7bff2b4b2a3e12'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 0, 0, 4, 23000),
+ 'distancia': 78.76}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  77.17 cm
+77.17
+5ac6fed47f7bff2cb6beff34
+{'_id': ObjectId('5ac6fed47f7bff2cb6beff34'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 2, 0, 4, 651000),
+ 'distancia': 77.17}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  70.38 cm
+70.38
+5ac71af47f7bff2e1a692906
+{'_id': ObjectId('5ac71af47f7bff2e1a692906'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 4, 0, 4, 95000),
+ 'distancia': 70.38}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.23 cm
+69.23
+5ac737137f7bff2f7cc3af08
+{'_id': ObjectId('5ac737137f7bff2f7cc3af08'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 6, 0, 3, 841000),
+ 'distancia': 69.23}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.11 cm
+74.11
+5ac753347f7bff31834b6af0
+{'_id': ObjectId('5ac753347f7bff31834b6af0'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 8, 0, 4, 329000),
+ 'distancia': 74.11}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  69.49 cm
+69.49
+5ac76f537f7bff32e9485614
+{'_id': ObjectId('5ac76f537f7bff32e9485614'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 10, 0, 3, 954000),
+ 'distancia': 69.49}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  57.73 cm
+57.73
+5ac78b737f7bff344ac3c36b
+{'_id': ObjectId('5ac78b737f7bff344ac3c36b'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 12, 0, 3, 929000),
+ 'distancia': 57.73}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  66.29 cm
+66.29
+5ac7a7947f7bff35bc2dbd61
+{'_id': ObjectId('5ac7a7947f7bff35bc2dbd61'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 14, 0, 4, 1000),
+ 'distancia': 66.29}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.37 cm
+75.37
+5ac7c3b47f7bff3724501bd2
+{'_id': ObjectId('5ac7c3b47f7bff3724501bd2'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 16, 0, 4, 165000),
+ 'distancia': 75.37}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.38 cm
+81.38
+5ac7dfd47f7bff388ab35c5c
+{'_id': ObjectId('5ac7dfd47f7bff388ab35c5c'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 18, 0, 4, 179000),
+ 'distancia': 81.38}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  74.95 cm
+74.95
+5ac7fbf47f7bff39e9019757
+{'_id': ObjectId('5ac7fbf47f7bff39e9019757'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 20, 0, 4, 379000),
+ 'distancia': 74.95}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.89 cm
+75.89
+5ac818137f7bff3b508f688d
+{'_id': ObjectId('5ac818137f7bff3b508f688d'),
+ 'data_hora': datetime.datetime(2018, 4, 6, 22, 0, 3, 982000),
+ 'distancia': 75.89}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  103.5 cm
+103.5
+5ac834347f7bff3cabd7fc2b
+{'_id': ObjectId('5ac834347f7bff3cabd7fc2b'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 0, 0, 4, 141000),
+ 'distancia': 103.5}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  75.21 cm
+75.21
+5ac850547f7bff3e190b1116
+{'_id': ObjectId('5ac850547f7bff3e190b1116'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 2, 0, 4, 293000),
+ 'distancia': 75.21}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.47 cm
+88.47
+5ac86c737f7bff3f7b41e1d8
+{'_id': ObjectId('5ac86c737f7bff3f7b41e1d8'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 4, 0, 3, 790000),
+ 'distancia': 88.47}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  87.09 cm
+87.09
+5ac888947f7bff40e3f92832
+{'_id': ObjectId('5ac888947f7bff40e3f92832'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 6, 0, 4, 670000),
+ 'distancia': 87.09}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  81.35 cm
+81.35
+5ac8a4b47f7bff42de9f065e
+{'_id': ObjectId('5ac8a4b47f7bff42de9f065e'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 8, 0, 4, 35000),
+ 'distancia': 81.35}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.23 cm
+82.23
+5ac8c0d47f7bff4446237c75
+{'_id': ObjectId('5ac8c0d47f7bff4446237c75'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 10, 0, 4, 48000),
+ 'distancia': 82.23}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.68 cm
+88.68
+5ac8dcf37f7bff45ab94710d
+{'_id': ObjectId('5ac8dcf37f7bff45ab94710d'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 12, 0, 3, 672000),
+ 'distancia': 88.68}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  86.43 cm
+86.43
+5ac8f9147f7bff472235dcad
+{'_id': ObjectId('5ac8f9147f7bff472235dcad'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 14, 0, 4, 316000),
+ 'distancia': 86.43}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  87.62 cm
+87.62
+5ac915347f7bff4884cfb3b6
+{'_id': ObjectId('5ac915347f7bff4884cfb3b6'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 16, 0, 4, 286000),
+ 'distancia': 87.62}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  87.89 cm
+87.89
+5ac931547f7bff49e6220ac3
+{'_id': ObjectId('5ac931547f7bff49e6220ac3'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 18, 0, 4, 145000),
+ 'distancia': 87.89}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  88.69 cm
+88.69
+5ac94d747f7bff4b4daa8fc1
+{'_id': ObjectId('5ac94d747f7bff4b4daa8fc1'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 20, 0, 4, 269000),
+ 'distancia': 88.69}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  90.49 cm
+90.49
+5ac969947f7bff4caccea3d2
+{'_id': ObjectId('5ac969947f7bff4caccea3d2'),
+ 'data_hora': datetime.datetime(2018, 4, 7, 22, 0, 4, 333000),
+ 'distancia': 90.49}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  130.53 cm
+130.53
+5ac985b47f7bff4e095ff49c
+{'_id': ObjectId('5ac985b47f7bff4e095ff49c'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 0, 0, 4, 250000),
+ 'distancia': 130.53}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  108.31 cm
+108.31
+5ac9a1d47f7bff4f7c9170ff
+{'_id': ObjectId('5ac9a1d47f7bff4f7c9170ff'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 2, 0, 4, 389000),
+ 'distancia': 108.31}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  100.66 cm
+100.66
+5ac9bdf37f7bff50de21aaa3
+{'_id': ObjectId('5ac9bdf37f7bff50de21aaa3'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 4, 0, 3, 845000),
+ 'distancia': 100.66}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  103.73 cm
+103.73
+5ac9da137f7bff5249f23494
+{'_id': ObjectId('5ac9da137f7bff5249f23494'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 6, 0, 3, 988000),
+ 'distancia': 103.73}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  72.44 cm
+72.44
+5ac9f6347f7bff54b0d4daae
+{'_id': ObjectId('5ac9f6347f7bff54b0d4daae'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 8, 0, 4, 63000),
+ 'distancia': 72.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.44 cm
+82.44
+5aca12547f7bff560c85dd74
+{'_id': ObjectId('5aca12547f7bff560c85dd74'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 10, 0, 4, 669000),
+ 'distancia': 82.44}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.2 cm
+84.2
+5aca2e747f7bff57750cb92e
+{'_id': ObjectId('5aca2e747f7bff57750cb92e'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 12, 0, 4, 250000),
+ 'distancia': 84.2}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  89.78 cm
+89.78
+5aca66b47f7bff06389d2614
+{'_id': ObjectId('5aca66b47f7bff06389d2614'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 16, 0, 4, 352000),
+ 'distancia': 89.78}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  90.67 cm
+90.67
+5aca82d47f7bff079a226143
+{'_id': ObjectId('5aca82d47f7bff079a226143'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 18, 0, 4, 218000),
+ 'distancia': 90.67}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  56.01 cm
+56.01
+5aca9ef47f7bff08f5a81026
+{'_id': ObjectId('5aca9ef47f7bff08f5a81026'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 20, 0, 4, 320000),
+ 'distancia': 56.01}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  58.12 cm
+58.12
+5acabb147f7bff0a51ff35a6
+{'_id': ObjectId('5acabb147f7bff0a51ff35a6'),
+ 'data_hora': datetime.datetime(2018, 4, 8, 22, 0, 4, 342000),
+ 'distancia': 58.12}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  78.09 cm
+78.09
+5acad7347f7bff0bb9f1eb11
+{'_id': ObjectId('5acad7347f7bff0bb9f1eb11'),
+ 'data_hora': datetime.datetime(2018, 4, 9, 0, 0, 4, 99000),
+ 'distancia': 78.09}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  82.01 cm
+82.01
+5acaf3537f7bff0d1e58321a
+{'_id': ObjectId('5acaf3537f7bff0d1e58321a'),
+ 'data_hora': datetime.datetime(2018, 4, 9, 2, 0, 3, 765000),
+ 'distancia': 82.01}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  84.63 cm
+84.63
+5acb0f747f7bff0e8e1d7eab
+{'_id': ObjectId('5acb0f747f7bff0e8e1d7eab'),
+ 'data_hora': datetime.datetime(2018, 4, 9, 4, 0, 4, 324000),
+ 'distancia': 84.63}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  105.31 cm
+105.31
+5acb2b947f7bff0ff47b0b8f
+{'_id': ObjectId('5acb2b947f7bff0ff47b0b8f'),
+ 'data_hora': datetime.datetime(2018, 4, 9, 6, 0, 4, 73000),
+ 'distancia': 105.31}
+Distance Measurement In Progress
+Waiting For Sensor To Settle
+Distance:  56.53 cm
+56.53
+5acb47b47f7bff120ab034c8
+{'_id': ObjectId('5acb47b47f7bff120ab034c8'),
+ 'data_hora': datetime.datetime(2018, 4, 9, 8, 0, 4, 37000),
+ 'distancia': 56.53}
